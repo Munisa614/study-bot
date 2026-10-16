@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # === SOZLAMALAR ===
-BOT_TOKEN = "8917769763:AAF8dfh63nnnChwNctl5hq 4zQF_D-KnvcJE"  # Tokeningiz
+BOT_TOKEN = "8917769763:AAF8dfh63nnnChwNctl5hq4zQF_D-KnvcJE"  # Tokeningiz
 ADMINS = [7372128318, 1309449553]  # Admin ID raqamlari
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="Markdown")
